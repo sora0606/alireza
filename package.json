@@ -4,8 +4,11 @@
   },
   "dependencies": {
     "@parcel/config-default": "^2.8.3",
+    "@use-gesture/vanilla": "^10.2.27",
     "dat.gui": "^0.7.9",
     "gsap": "^3.11.5",
-    "three": "^0.152.2"
+    "lethargy": "^1.0.9",
+    "three": "^0.152.2",
+    "virtual-scroll": "^2.2.1"
   }
 }
